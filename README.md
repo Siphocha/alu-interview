@@ -1,0 +1,2 @@
+# alu-interview
+THIS IS THE FIRST PREP INTERVIEW PROJECT!
