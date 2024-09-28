@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """calculating total amount of rainwater kept after it rains"""
 def rain(walls):
     """
